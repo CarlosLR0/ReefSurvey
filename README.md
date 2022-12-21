@@ -1,4 +1,5 @@
-# ReefSurveyCreate a repository on GitHub with write permissions for your entire team. Your git repository will be referred to hereafter as <repoBase>/.
+# ReefSurveyCreate 
+#a repository on GitHub with write permissions for your entire team. Your git repository will be referred to hereafter as <repoBase>/.
 Download the latest published version of the data set as a tar.gz archive by following links from the data source page: Biogeographic characterization of fish and benthic communities, Flower Garden Banks, Texas 2006-09-13 to 2012-10-02 (NOAA) Links to an external site.. Note: This data has been superseded for scientific purposes, but is still valid for this assignment.
 Using command line tools, unpack the data folder from the downloaded archive to <repoBase>/external/survey/ (you should have, e.g., <repoBase>/external/survey/0-data/).
 Create <repoBase>/external/survey/README.md as a Markdown-format file and cite the data archive appropriately (refer to the source URL).
